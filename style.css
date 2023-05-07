@@ -1,0 +1,14 @@
+@media screen and (min-width: 480px) {
+    body {
+      background-color: white;
+    }
+  }
+  .flex-container {
+  display: flex;
+  }
+  #nav-bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
